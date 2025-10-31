@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Civils on </title>
-    <link>//localhost:1313/civil/</link>
+    <link>/civil/</link>
     <description>Recent content in Civils on </description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/civil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/civil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>民法总则</title>
-      <link>//localhost:1313/civil/general/</link>
+      <link>/civil/general/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/civil/general/</guid>
+      <guid>/civil/general/</guid>
       <description>&lt;h2 id=&#34;一法考命题核心&#34;&gt;一、法考命题核心&lt;/h2&gt;
 &lt;p&gt;民法总则是整个民法体系的基础，命题比重约10%。&lt;/p&gt;
 &lt;h2 id=&#34;二核心记忆点&#34;&gt;二、核心记忆点&lt;/h2&gt;
@@ -45,7 +45,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;p&gt;📄 &lt;a href=&#34;//localhost:1313/pdf/civil-law.pdf&#34;&gt;查看教材PDF&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;📄 &lt;a href=&#34;/pdf/civil-law.pdf&#34;&gt;查看教材PDF&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
