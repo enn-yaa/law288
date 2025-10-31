@@ -57,7 +57,7 @@ fi
 
 # 🌍 自动打开网站（可注释掉）
 if command -v open &>/dev/null; then
-  open "https://law.xuufaa.com/"
+  open "https://law288.xuufaa.com/"
 fi
 
 echo "🎉 部署完成：$(date '+%Y-%m-%d %H:%M:%S')"

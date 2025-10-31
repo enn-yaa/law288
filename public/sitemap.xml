@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/civil/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/constitution/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E5%9B%BE%E4%B9%A6%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/%E6%80%BB%E5%88%99/</loc>
@@ -20,11 +32,37 @@
     <loc>/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/constitution/20251030books/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E5%85%AC%E5%8F%B8%E6%B3%95/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E5%95%86%E6%B3%95/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E5%95%86%E6%B3%95/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%9D%8E%E5%BB%BA%E4%BC%9F/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/constitution/gsf600/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%B3%95%E5%BE%8B%E4%BA%BA%E6%96%87/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/%E6%B3%95%E8%80%83/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/%E6%B3%95%E8%80%83%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2025-10-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/administrative/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/constitution/</loc>
   </url><url>
     <loc>/criminal/</loc>
   </url><url>
