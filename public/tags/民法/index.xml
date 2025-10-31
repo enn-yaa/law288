@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>民法 on </title>
+    <link>//localhost:1313/tags/%E6%B0%91%E6%B3%95/</link>
+    <description>Recent content in 民法 on </description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E6%B0%91%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>民法总则</title>
+      <link>//localhost:1313/civil/general/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/civil/general/</guid>
+      <description>&lt;h2 id=&#34;一法考命题核心&#34;&gt;一、法考命题核心&lt;/h2&gt;
+&lt;p&gt;民法总则是整个民法体系的基础，命题比重约10%。&lt;/p&gt;
+&lt;h2 id=&#34;二核心记忆点&#34;&gt;二、核心记忆点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;法律行为三要件：意思表示、行为能力、合法性&lt;/li&gt;
+&lt;li&gt;无效民事行为的五种情形&lt;/li&gt;
+&lt;li&gt;代理：表见代理、无权代理的区分&lt;/li&gt;
+&lt;li&gt;民事主体制度：自然人、法人、非法人组织&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;三历年真题高频考点&#34;&gt;三、历年真题高频考点&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;年份&lt;/th&gt;
+          &lt;th&gt;考点&lt;/th&gt;
+          &lt;th&gt;题型&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+          &lt;td&gt;无权代理&lt;/td&gt;
+          &lt;td&gt;单选&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+          &lt;td&gt;意思表示瑕疵&lt;/td&gt;
+          &lt;td&gt;案例题&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;📄 &lt;a href=&#34;//localhost:1313/pdf/civil-law.pdf&#34;&gt;查看教材PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
